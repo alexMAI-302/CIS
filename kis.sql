@@ -19,7 +19,7 @@ BEGIN
 END
 GO
 
-SELECT * FROM kis.dbo.incgoods JOIN kis.dbo.income ON incgoods.id = income.id ORDER BY income.ddate
+--SELECT * FROM kis.dbo.incgoods JOIN kis.dbo.income ON incgoods.id = income.id ORDER BY income.ddate
 
 
 --SELECT incgoods.id, incgoods.subid, incgoods.volume, income.id
