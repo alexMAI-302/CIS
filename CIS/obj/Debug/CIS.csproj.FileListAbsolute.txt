@@ -7,3 +7,6 @@ C:\Users\Alex-Vaio\Desktop\CIS\CIS\obj\Debug\CIS.Properties.Resources.resources
 C:\Users\Alex-Vaio\Desktop\CIS\CIS\obj\Debug\CIS.csproj.GenerateResource.Cache
 C:\Users\Alex-Vaio\Desktop\CIS\CIS\obj\Debug\CIS.exe
 C:\Users\Alex-Vaio\Desktop\CIS\CIS\obj\Debug\CIS.pdb
+C:\Users\Alex-Vaio\Documents\GitHub\CIS\CIS\bin\Debug\CIS.exe.config
+C:\Users\Alex-Vaio\Documents\GitHub\CIS\CIS\obj\Debug\CIS.exe
+C:\Users\Alex-Vaio\Documents\GitHub\CIS\CIS\obj\Debug\CIS.pdb
